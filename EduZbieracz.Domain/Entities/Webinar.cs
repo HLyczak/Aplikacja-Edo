@@ -1,6 +1,6 @@
 ﻿namespace EduZbieracz.Domain.Entities
 {
-    internal class Webinars
+    public class Webinar
     {
         public int Id { get; set; }
         public string Title { get; set; }

@@ -2,7 +2,7 @@
 
 namespace EduZbieracz.Applications.Contracts.Persistence
 {
-    public interface IWebinaryRepository : IAsyncRepository<Webinars>
+    public interface IWebinaryRepository : IAsyncRepository<Webinar>
     {
     }
 }
